@@ -1,3 +1,9 @@
+Dependencies
+
+1. react-scroll
+2. react-router
+3. sass
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
