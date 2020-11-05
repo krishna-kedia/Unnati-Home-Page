@@ -1,8 +1,14 @@
-Dependencies
-
-1. react-scroll
-2. react-router
-3. sass
+<h1>Dependencies</h1>
+<ul>
+    <li>"node-sass": "^4.14.1"</li>
+    <li>"react": "^16.14.0"</li>
+    <li>"react-dom": "^16.14.0"</li>
+    <li>"react-icons": "^3.11.0"</li>
+    <li>"react-router-dom": "^5.2.0"</li>
+    <li>"react-scripts": "^4.0.0"</li>
+    <li>"react-scroll": "^1.8.1"</li>
+    <li>"styled-components": "^5.2.0</li>
+</ul>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
